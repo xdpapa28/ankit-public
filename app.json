@@ -15,7 +15,7 @@
       "value": ""
     },
     "BOT_USERNAME": {
-      "description": "Put Bot Username Without '@' Ex:- DevilTrishaRoBot",
+      "description": "Put Bot Username Without '@' Ex:- Dangerous",
       "required": true,
       "value": "DANGEROUS_bot"
     },
