@@ -1,4 +1,4 @@
-# Devil Hacker // @D3vilHack3r
+# Toxic Hacker // @its_toxicop
 
 import os
 from os import path
@@ -184,7 +184,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/chupchap7")
+                            url=f"https://t.me/hanimechatgroup")
 
                 ]
             ]
@@ -223,7 +223,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/chupchap7")
+                            url=f"https://t.me/hanimechatgroup")
 
                 ]
             ]
@@ -239,7 +239,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/chupchap7")
+                            url=f"https://t.me/hanimechatgroup")
 
                 ]
             ]
@@ -294,7 +294,7 @@ async def play(_, message: Message):
                 [
                         InlineKeyboardButton(
                             text="💥 Jøɩɳ Ɦɘɤɘ & Sʋƥƥøɤʈ 💞",
-                            url=f"https://t.me/chupchap7")
+                            url=f"https://t.me/hanimechatgroup")
 
                 ]
             ]
