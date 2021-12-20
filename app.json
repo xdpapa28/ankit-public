@@ -1,0 +1,43 @@
+{
+  "name": "ᴀɴᴋɪᴛ sᴍᴀʀᴛ ᴘʟᴀʏᴇʀ",
+  "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "keywords": ["music", "voicechat", "telegram"],
+  "repository": "https://github.com/xdpapa28/ankit-public",
+  "stack": "container",
+  "env": {
+    "SESSION_NAME": {
+      "description": "Pyrogram session string",
+      "required": false
+    },
+    "BOT_TOKEN": {
+      "description": "A bot token from @BotFather",
+      "required": false,
+      "value": ""
+    },
+    "BOT_USERNAME": {
+      "description": "Put Bot Username Without '@' Ex:- ankitbot",
+      "required": true,
+      "value": "ankitbot"
+    },
+    "API_ID": {
+      "description": "App ID from my.telegram.org/apps",
+      "required": false,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "App hash from my.telegram.org/apps",
+      "required": false,
+      "value": ""
+    },
+    "SUDO_USERS": {
+      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "required": false,
+      "value": ""
+    },
+    "DURATION_LIMIT": {
+      "description": "Max audio duration limit for downloads (minutes).",
+      "required": false,
+      "value": "60"
+    }
+  }
+}
